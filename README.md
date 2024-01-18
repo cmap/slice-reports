@@ -4,7 +4,7 @@ A module for moving compounds/asssets from project A to project B.
 
 
 1. Checkout this repository
-2. CD into the checked out repos and pull the reports folder from whereever it is hosted. Nake sure you the reports are deposited into the root of the cheched out repos.
+2. CD into the checked out repos and pull the reports folder from whereever it is hosted. Make sure you the reports are deposited into the root of the cheched out repos.
 3. Edit copy config.json.template as config.json.
 4. Edit config.json appropriately 
   * PARENT_SRC_PROJECT_DIR - Should point to the name of the folder holding the reports for example mts001_validation_compounds
