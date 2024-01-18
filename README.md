@@ -13,7 +13,7 @@ A module for moving compounds/asssets from project A to project B.
   * PERT_IDS - This is an array of pert ids that you want to slice out of the reports
   * PERT_PLATES - An array of pert plates that the pert_ids are on
 
-5. Then run node slice.js
+5. Then run `node slice.js`
   This will generate the needed assets into the PARENT_DEST_PROJECT_DIR
 6. CD into that folder and edit index.html to keep only the perts that are needed. You may also want to change the title to reflect the new project
 
