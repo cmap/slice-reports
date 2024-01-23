@@ -1,0 +1,18 @@
+{
+  "PARENT_SRC_PROJECT_DIR": "mts024_validation_compounds",
+  "PARENT_DEST_PROJECT_DIR": "mts024_foo",
+  "PERT_INAMES": [
+    "AZ-628",
+    "imatinib",
+    "Nutlin-3a"
+  ],
+  "PERT_IDS": [
+    "BRD-K05804044",
+    "BRD-A12230535",
+    "BRD-K92723993"
+  ],
+  "PERT_PLATES": [
+    " PMTS057",
+     "PMTS053"
+  ]
+}
